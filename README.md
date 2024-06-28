@@ -1,6 +1,1 @@
-
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based on the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
-
-Point your browser to [Quickstart for GitHub Codespaces](https://docs.github.com/en/codespaces/getting-started/quickstart) for a tour of using Codespaces with this repo.
+{"activeAccounts":[{"address":"0x4c48ae9b14FAdb9e70Cdd65E0288aE0e0D371b53","coin":60,"derivationPath":"m/44'/60'/0'/0/0","publicKey":"0450d568168623733e4afc74e8cb6b9b115d6d4f9482ead3c3fc1c262ebe083f4c17320d0e3b02f12b39596ad4cf540003d837580139815c9773cd6592c4dcbff1"}],"crypto":{"cipher":"aes-128-ctr","cipherparams":{"iv":"06851484284b1135fea03ac62976f51e"},"ciphertext":"59d9686416c7c91314fea97fdae1dcc60d61929bc003fe2f28aada8b7d840d18c6b08a22281068efdfda000039a2ac05e249b9a1e56cd0aacb281e1509847313c6907c301301dbfe5360cb523b6214602286bc","kdf":"scrypt","kdfparams":{"dklen":32,"n":16384,"p":4,"r":8,"salt":""},"mac":"29ca2c94890eb4cd9db18be75fa02f80781e95d04164fea0a185d084cf72d582"},"id":"48d2bc4b-e50f-46ac-a86b-f3efa7d49f32","name":"","type":"mnemonic","version":3}
